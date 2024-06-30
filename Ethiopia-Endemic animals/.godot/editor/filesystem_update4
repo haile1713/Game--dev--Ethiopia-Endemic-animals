@@ -1,2 +1,4 @@
 res://default_env.tres
 res://Scenes/Game.tscn
+res://Scenes/BlueProjectile.tscn
+res://Scenes/BlueParticles.tscn

@@ -9,16 +9,16 @@
 [ext_resource type="Script" path="res://Scripts/Buttons.gd" id="7"]
 [ext_resource type="Texture2D" uid="uid://b0ovdvy0w5qnf" path="res://Sprites/Basic/Banner.png" id="8"]
 [ext_resource type="Script" path="res://Scripts/Area2D.gd" id="9"]
-[ext_resource type="Texture2D" uid="uid://baoxaxaf8w5cy" path="res://Sprites/Basic/OrangeButton.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://kliwd1tljcdq" path="res://assets/txt img/4th.jpg" id="10_iqr01"]
 [ext_resource type="Script" path="res://Scripts/Color.gd" id="11"]
-[ext_resource type="Texture2D" uid="uid://6d3735hcvssk" path="res://Sprites/Basic/BlueButton.png" id="12"]
-[ext_resource type="Texture2D" uid="uid://cea2gh1btirx1" path="res://Sprites/Basic/DiffGreenButton.png" id="13"]
-[ext_resource type="Texture2D" uid="uid://bb08jiqxk5lbk" path="res://Sprites/Basic/DiffRedButton.png" id="14"]
-[ext_resource type="Texture2D" uid="uid://dkoom046sfcpd" path="res://Sprites/Basic/DiffBlueButton.png" id="15"]
-[ext_resource type="Texture2D" uid="uid://he6qml88ainw" path="res://Sprites/Basic/PurpleButton.png" id="16"]
-[ext_resource type="Texture2D" uid="uid://ciwj6wxn740dp" path="res://Sprites/Basic/YellowButton.png" id="17"]
-[ext_resource type="Texture2D" uid="uid://b4ve1cw7o6awd" path="res://Sprites/Basic/GreenButton.png" id="18"]
-[ext_resource type="Texture2D" uid="uid://cbepncshrnnhd" path="res://Sprites/Basic/RedButton.png" id="19"]
+[ext_resource type="Texture2D" uid="uid://ku6xsg1yd22l" path="res://assets/txt img/1st.jpg" id="12_5qkg3"]
+[ext_resource type="Texture2D" uid="uid://bgkctpx1k4d1d" path="res://assets/images/SW.jpg" id="13_igarg"]
+[ext_resource type="Texture2D" uid="uid://dyagn4kn5sdrd" path="res://assets/txt img/7th.jpg" id="14_r3ejd"]
+[ext_resource type="Texture2D" uid="uid://7ibdqfnb51th" path="res://assets/txt img/8th.jpg" id="15_fdu2y"]
+[ext_resource type="Texture2D" uid="uid://bwth1mqucod7g" path="res://assets/txt img/5th.jpg" id="16_6xudj"]
+[ext_resource type="Texture2D" uid="uid://cg1r8qyv1v41a" path="res://assets/txt img/6th.jpg" id="17_dba46"]
+[ext_resource type="Texture2D" uid="uid://2kb8vbjeh0qf" path="res://assets/txt img/2nd.jpg" id="18_id1k4"]
+[ext_resource type="Texture2D" uid="uid://byanhapjb2w8q" path="res://assets/txt img/3rd.jpg" id="19_f51on"]
 [ext_resource type="Texture2D" uid="uid://7a5f8hgjh2dj" path="res://Sprites/Basic/TopButton.png" id="20"]
 [ext_resource type="Script" path="res://Scripts/Arrow.gd" id="21"]
 [ext_resource type="Script" path="res://Scripts/Emitters.gd" id="22"]
@@ -338,7 +338,8 @@ offset_left = 12.0
 offset_top = 268.45
 offset_right = 188.0
 offset_bottom = 369.45
-texture_normal = ExtResource("10")
+scale = Vector2(0.278606, 0.313747)
+texture_normal = ExtResource("10_iqr01")
 script = ExtResource("11")
 color = "Orange"
 
@@ -349,9 +350,10 @@ anchor_right = 0.5
 anchor_bottom = 0.5
 offset_left = 12.0
 offset_top = 156.0
-offset_right = 188.0
-offset_bottom = 257.0
-texture_normal = ExtResource("12")
+offset_right = 643.0
+offset_bottom = 465.0
+scale = Vector2(0.280931, 0.327796)
+texture_normal = ExtResource("12_5qkg3")
 script = ExtResource("11")
 color = "Blue"
 
@@ -364,7 +366,8 @@ offset_left = 387.919
 offset_top = 378.588
 offset_right = 563.919
 offset_bottom = 479.588
-texture_normal = ExtResource("13")
+scale = Vector2(0.135404, 0.102724)
+texture_normal = ExtResource("13_igarg")
 script = ExtResource("11")
 color = "DiffGreen"
 
@@ -377,7 +380,8 @@ offset_left = 12.0
 offset_top = 379.319
 offset_right = 188.0
 offset_bottom = 480.319
-texture_normal = ExtResource("14")
+scale = Vector2(0.281595, 0.322902)
+texture_normal = ExtResource("14_r3ejd")
 script = ExtResource("11")
 color = "DiffRed"
 
@@ -390,7 +394,8 @@ offset_left = 199.673
 offset_top = 379.156
 offset_right = 375.673
 offset_bottom = 480.156
-texture_normal = ExtResource("15")
+scale = Vector2(0.282569, 0.321372)
+texture_normal = ExtResource("15_fdu2y")
 script = ExtResource("11")
 color = "DiffBlue"
 
@@ -403,7 +408,8 @@ offset_left = 199.507
 offset_top = 268.45
 offset_right = 375.507
 offset_bottom = 369.45
-texture_normal = ExtResource("16")
+scale = Vector2(0.284039, 0.316672)
+texture_normal = ExtResource("16_6xudj")
 script = ExtResource("11")
 color = "Purple"
 
@@ -416,7 +422,8 @@ offset_left = 388.454
 offset_top = 268.45
 offset_right = 564.454
 offset_bottom = 369.45
-texture_normal = ExtResource("17")
+scale = Vector2(0.280071, 0.326772)
+texture_normal = ExtResource("17_dba46")
 script = ExtResource("11")
 color = "Yellow"
 
@@ -425,7 +432,8 @@ offset_left = 200.0
 offset_top = 156.0
 offset_right = 376.0
 offset_bottom = 256.0
-texture_normal = ExtResource("18")
+scale = Vector2(0.280674, 0.322779)
+texture_normal = ExtResource("18_id1k4")
 script = ExtResource("11")
 color = "Green"
 
@@ -434,7 +442,8 @@ offset_left = 388.0
 offset_top = 155.538
 offset_right = 565.131
 offset_bottom = 255.538
-texture_normal = ExtResource("19")
+scale = Vector2(0.276224, 0.325611)
+texture_normal = ExtResource("19_f51on")
 script = ExtResource("11")
 color = "Red"
 
