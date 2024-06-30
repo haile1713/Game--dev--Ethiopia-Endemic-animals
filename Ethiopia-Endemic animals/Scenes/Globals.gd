@@ -3,7 +3,7 @@ extends Node2D
 var testGlobal = 15
 
 var score = 0.0
-var projectile_speed = 5
+var projectile_speed = 3
 var emit_time = 2
 var emit_min = .5
 var emit_delta = .005
