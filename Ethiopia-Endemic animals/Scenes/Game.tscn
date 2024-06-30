@@ -123,23 +123,6 @@ text = "Start"
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="SettingsButton" type="TextureButton" parent="UI/MenuButtons"]
-offset_left = 88.0
-offset_top = 440.0
-offset_right = 488.0
-offset_bottom = 530.0
-
-[node name="Settings" type="Label" parent="UI/MenuButtons/SettingsButton"]
-layout_mode = 0
-offset_right = 400.0
-offset_bottom = 90.0
-theme_override_colors/font_color = Color(0, 0, 0, 1)
-theme_override_fonts/font = ExtResource("5")
-theme_override_font_sizes/font_size = 60
-text = "Settings"
-horizontal_alignment = 1
-vertical_alignment = 1
-
 [node name="QuitButton" type="TextureButton" parent="UI/MenuButtons"]
 offset_left = 88.0
 offset_top = 530.0
@@ -174,7 +157,7 @@ offset_bottom = 90.0
 theme_override_colors/font_color = Color(0, 0, 0, 1)
 theme_override_fonts/font = ExtResource("5")
 theme_override_font_sizes/font_size = 60
-text = "Not Easy"
+text = " Easy"
 horizontal_alignment = 1
 vertical_alignment = 1
 
@@ -191,7 +174,7 @@ offset_bottom = 90.0
 theme_override_colors/font_color = Color(0, 0, 0, 1)
 theme_override_fonts/font = ExtResource("5")
 theme_override_font_sizes/font_size = 60
-text = "Pretty Difficult"
+text = "Medium"
 horizontal_alignment = 1
 vertical_alignment = 1
 
@@ -208,7 +191,9 @@ offset_bottom = 90.0
 theme_override_colors/font_color = Color(0, 0, 0, 1)
 theme_override_fonts/font = ExtResource("5")
 theme_override_font_sizes/font_size = 60
-text = "Just Bad"
+text = "Hard"
+horizontal_alignment = 1
+vertical_alignment = 1
 
 [node name="BackButton" type="TextureButton" parent="UI/DifficultyButtons"]
 offset_left = 88.0
