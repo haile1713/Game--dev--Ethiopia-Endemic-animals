@@ -10,8 +10,8 @@
 z_as_relative = false
 script = ExtResource("1")
 
-[node name="Sprite2D" type="Sprite2D" parent="."]
-scale = Vector2(0.094, 0.094)
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+scale = Vector2(0.20198, 0.183475)
 texture = ExtResource("2_f0p2x")
 
 [node name="Area2D" type="Area2D" parent="."]
