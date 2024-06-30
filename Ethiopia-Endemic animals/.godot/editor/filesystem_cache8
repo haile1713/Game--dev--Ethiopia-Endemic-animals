@@ -1,6 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1719770354
-default_env.tres::Environment::8569641790393826143::1719769313::0::1::::<><>::
+::res://::1719774661
+default_env.tres::Environment::8569641790393826143::1719774110::0::1::::<><>::
 export_presets.cfg::TextFile::-1::1719760868::0::1::::<><>::
 icon.png::CompressedTexture2D::8538234676117089978::1719760868::1719762246::1::::<><>::
 save-file.cfg::TextFile::-1::1719760868::0::1::::<><>::
@@ -15,7 +15,7 @@ redfox.jpg::CompressedTexture2D::4573359391901682029::1719762322::1719762330::1:
 SW.jpg::CompressedTexture2D::2828353711708201355::1719769296::1719768022::1::::<><>::
 vervet.jpg::CompressedTexture2D::3128384757538283034::1719769296::1719768022::1::::<><>::
 walia photo.webp::CompressedTexture2D::3912456476352434827::1719769296::1719768022::1::::<><>::
-::res://assets/txt img/::1719762335
+::res://assets/txt img/::1719774661
 1st.jpg::CompressedTexture2D::745100247399764581::1719762335::1719762335::1::::<><>::
 2nd.jpg::CompressedTexture2D::1915863308908826337::1719762335::1719762335::1::::<><>::
 3rd.jpg::CompressedTexture2D::4071754776052585746::1719762335::1719762335::1::::<><>::
@@ -24,23 +24,24 @@ walia photo.webp::CompressedTexture2D::3912456476352434827::1719769296::17197680
 6th.jpg::CompressedTexture2D::5248740249334498768::1719762335::1719762335::1::::<><>::
 7th.jpg::CompressedTexture2D::8844183354926103265::1719762335::1719762335::1::::<><>::
 8th.jpg::CompressedTexture2D::2262624941514826709::1719762335::1719762335::1::::<><>::
+9th.jpg::CompressedTexture2D::3043658677235707745::1719774623::1719774661::1::::<><>::
 ::res://Fonts/::1719762246
 Gugi-Regular.ttf::FontFile::8307761116327448909::1719760868::1719762246::1::::<><>::
-::res://Scenes/::1719769313
-BlueParticles.tscn::PackedScene::5425359465609373121::1719769312::0::1::::<><>::uid://dmvmcy6c87h0s::::res://Sprites/Basic/BlueProjectile.png
-BlueProjectile.tscn::PackedScene::8236507522684155717::1719769312::0::1::::<><>::res://Scripts/Projectile.gd<>uid://b6fmtcr414alp::::res://assets/images/redfox.jpg<>res://Scripts/Area2D.gd
-DiffBlueProjectile.tscn::PackedScene::4790758007858128358::1719769313::0::1::::<><>::res://Scripts/Projectile.gd<>uid://bktobmd8xjl0e::::res://assets/images/vervet.jpg<>res://Scripts/Area2D.gd
-DiffGreenProjectile.tscn::PackedScene::2843967498019315987::1719766333::0::1::::<><>::res://Scripts/Projectile.gd<>uid://bgkctpx1k4d1d::::res://assets/images/SW.jpg<>res://Scripts/Area2D.gd
-DiffRedProjectile.tscn::PackedScene::3001006891546249341::1719766339::0::1::::<><>::res://Scripts/Projectile.gd<>uid://cef0wmdrl10dx::::res://assets/images/baboon.jpg<>res://Scripts/Area2D.gd
+::res://Scenes/::1719774110
+BlueParticles.tscn::PackedScene::5425359465609373121::1719771586::0::1::::<><>::uid://dmvmcy6c87h0s::::res://Sprites/Basic/BlueProjectile.png
+BlueProjectile.tscn::PackedScene::8236507522684155717::1719771581::0::1::::<><>::res://Scripts/Projectile.gd<>uid://b6fmtcr414alp::::res://assets/images/redfox.jpg<>res://Scripts/Area2D.gd
+DiffBlueProjectile.tscn::PackedScene::4790758007858128358::1719771516::0::1::::<><>::res://Scripts/Projectile.gd<>uid://bktobmd8xjl0e::::res://assets/images/vervet.jpg<>res://Scripts/Area2D.gd
+DiffGreenProjectile.tscn::PackedScene::2843967498019315987::1719771455::0::1::::<><>::res://Scripts/Projectile.gd<>uid://bgkctpx1k4d1d::::res://assets/images/SW.jpg<>res://Scripts/Area2D.gd
+DiffRedProjectile.tscn::PackedScene::3001006891546249341::1719771205::0::1::::<><>::res://Scripts/Projectile.gd<>uid://cef0wmdrl10dx::::res://assets/images/baboon.jpg<>res://Scripts/Area2D.gd
 font.tres::FontFile::-1::1719760868::0::1::::<><>::res://Fonts/Gugi-Regular.ttf
-Game.tscn::PackedScene::7897929176997681871::1719769312::0::1::::<><>::res://Scripts/Game.gd<>res://Scripts/UI.gd<>uid://dqmlu2ipqo0er::::res://Fonts/Gugi-Regular.ttf<>res://Scripts/MenuButtons.gd<>res://Scenes/font.tres<>res://Scripts/Score.gd<>res://Scripts/Buttons.gd<>uid://b0ovdvy0w5qnf::::res://Sprites/Basic/Banner.png<>res://Scripts/Area2D.gd<>uid://kliwd1tljcdq::::res://assets/txt img/4th.jpg<>res://Scripts/Color.gd<>uid://ku6xsg1yd22l::::res://assets/txt img/1st.jpg<>uid://bgkctpx1k4d1d::::res://assets/images/SW.jpg<>uid://dyagn4kn5sdrd::::res://assets/txt img/7th.jpg<>uid://7ibdqfnb51th::::res://assets/txt img/8th.jpg<>uid://bwth1mqucod7g::::res://assets/txt img/5th.jpg<>uid://cg1r8qyv1v41a::::res://assets/txt img/6th.jpg<>uid://2kb8vbjeh0qf::::res://assets/txt img/2nd.jpg<>uid://byanhapjb2w8q::::res://assets/txt img/3rd.jpg<>uid://7a5f8hgjh2dj::::res://Sprites/Basic/TopButton.png<>res://Scripts/Arrow.gd<>res://Scripts/Emitters.gd<>res://Scenes/Globals.gd
+Game.tscn::PackedScene::7897929176997681871::1719774110::0::1::::<><>::res://Scripts/Game.gd<>res://Scripts/UI.gd<>uid://dqmlu2ipqo0er::::res://Fonts/Gugi-Regular.ttf<>res://Scripts/MenuButtons.gd<>res://Scenes/font.tres<>res://Scripts/Score.gd<>res://Scripts/Buttons.gd<>uid://b0ovdvy0w5qnf::::res://Sprites/Basic/Banner.png<>res://Scripts/Area2D.gd<>uid://kliwd1tljcdq::::res://assets/txt img/4th.jpg<>res://Scripts/Color.gd<>uid://ku6xsg1yd22l::::res://assets/txt img/1st.jpg<>uid://bgkctpx1k4d1d::::res://assets/images/SW.jpg<>uid://dyagn4kn5sdrd::::res://assets/txt img/7th.jpg<>uid://7ibdqfnb51th::::res://assets/txt img/8th.jpg<>uid://bwth1mqucod7g::::res://assets/txt img/5th.jpg<>uid://cg1r8qyv1v41a::::res://assets/txt img/6th.jpg<>uid://2kb8vbjeh0qf::::res://assets/txt img/2nd.jpg<>uid://byanhapjb2w8q::::res://assets/txt img/3rd.jpg<>uid://7a5f8hgjh2dj::::res://Sprites/Basic/TopButton.png<>res://Scripts/Arrow.gd<>res://Scripts/Emitters.gd<>res://Scenes/Globals.gd
 Globals.gd::GDScript::-1::1719766390::0::1::::<>Node2D<>::
-GreenProjectile.tscn::PackedScene::7812172372121105247::1719766347::0::1::::<><>::res://Scripts/Projectile.gd<>uid://bv0ht7bx34rlj::::res://assets/images/walia photo.webp<>res://Scripts/Area2D.gd
-OrangeProjectile.tscn::PackedScene::2465844759232852839::1719766344::0::1::::<><>::res://Scripts/Projectile.gd<>uid://cjwj1jq1yh50s::::res://assets/images/dekula.jpg<>res://Scripts/Area2D.gd
+GreenProjectile.tscn::PackedScene::7812172372121105247::1719771572::0::1::::<><>::res://Scripts/Projectile.gd<>uid://bv0ht7bx34rlj::::res://assets/images/walia photo.webp<>res://Scripts/Area2D.gd
+OrangeProjectile.tscn::PackedScene::2465844759232852839::1719771289::0::1::::<><>::res://Scripts/Projectile.gd<>uid://cjwj1jq1yh50s::::res://assets/images/dekula.jpg<>res://Scripts/Area2D.gd
 Projectile.tscn::PackedScene::-1::1719760868::0::1::::<><>::res://Scripts/Projectile.gd<>res://Sprites/Basic/TopMiddleProjectile.png<>res://Scripts/Area2D.gd
-PurpleProjectile.tscn::PackedScene::6271022955789023902::1719766342::0::1::::<><>::res://Scripts/Projectile.gd<>uid://d2fe011erj22t::::res://assets/images/Parrot.jpeg<>res://Scripts/Area2D.gd
-RedProjectile.tscn::PackedScene::8850596885683050048::1719766345::0::1::::<><>::res://Scripts/Projectile.gd<>uid://dfa7061dich2n::::res://assets/images/nyala.jpg<>res://Scripts/Area2D.gd
-YellowProjectile.tscn::PackedScene::4195292151276280477::1719766340::0::1::::<><>::res://Scripts/Projectile.gd<>uid://cyywbthunb14v::::res://assets/images/blacklion.webp<>res://Scripts/Area2D.gd
+PurpleProjectile.tscn::PackedScene::6271022955789023902::1719771380::0::1::::<><>::res://Scripts/Projectile.gd<>uid://d2fe011erj22t::::res://assets/images/Parrot.jpeg<>res://Scripts/Area2D.gd
+RedProjectile.tscn::PackedScene::8850596885683050048::1719771338::0::1::::<><>::res://Scripts/Projectile.gd<>uid://dfa7061dich2n::::res://assets/images/nyala.jpg<>res://Scripts/Area2D.gd
+YellowProjectile.tscn::PackedScene::4195292151276280477::1719771237::0::1::::<><>::res://Scripts/Projectile.gd<>uid://cyywbthunb14v::::res://assets/images/blacklion.webp<>res://Scripts/Area2D.gd
 ::res://Scripts/::1719760868
 Area2D.gd::GDScript::-1::1719760868::0::1::::<>Area2D<>::
 Arrow.gd::GDScript::-1::1719760868::0::1::::<>TextureButton<>::

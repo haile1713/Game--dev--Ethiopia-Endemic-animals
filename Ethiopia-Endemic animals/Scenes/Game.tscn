@@ -12,7 +12,7 @@
 [ext_resource type="Texture2D" uid="uid://kliwd1tljcdq" path="res://assets/txt img/4th.jpg" id="10_iqr01"]
 [ext_resource type="Script" path="res://Scripts/Color.gd" id="11"]
 [ext_resource type="Texture2D" uid="uid://ku6xsg1yd22l" path="res://assets/txt img/1st.jpg" id="12_5qkg3"]
-[ext_resource type="Texture2D" uid="uid://bgkctpx1k4d1d" path="res://assets/images/SW.jpg" id="13_igarg"]
+[ext_resource type="Texture2D" uid="uid://bjmmu4qbpujth" path="res://assets/txt img/9th.jpg" id="13_0dxf7"]
 [ext_resource type="Texture2D" uid="uid://dyagn4kn5sdrd" path="res://assets/txt img/7th.jpg" id="14_r3ejd"]
 [ext_resource type="Texture2D" uid="uid://7ibdqfnb51th" path="res://assets/txt img/8th.jpg" id="15_fdu2y"]
 [ext_resource type="Texture2D" uid="uid://bwth1mqucod7g" path="res://assets/txt img/5th.jpg" id="16_6xudj"]
@@ -351,8 +351,8 @@ offset_left = 387.919
 offset_top = 378.588
 offset_right = 563.919
 offset_bottom = 479.588
-scale = Vector2(0.135404, 0.102724)
-texture_normal = ExtResource("13_igarg")
+scale = Vector2(0.281194, 0.326726)
+texture_normal = ExtResource("13_0dxf7")
 script = ExtResource("11")
 color = "DiffGreen"
 
